@@ -70,7 +70,7 @@ They began as they always began. First a looseness in the shoulders, as if the b
 
 He shut his eyes and began the story.
 
-*I have debated with the finest minds in Constantinople,* he told himself, in the words he always used, *and found them all wanting.* He had said it at Abba Talka’s table, at the imam’s table in Alexandria, in the Nubian sand with his lips split. It told itself by now; that was its use. His breath came back to him off his own beard, sour with the sickness of the first night out and the bile of this one.
+*I have debated with the finest minds in Constantinople,* he told himself, in the words he always used, *and found them all wanting.* He had said it at Abba Talka’s table, at the imam’s table in Cairo, in the Nubian sand with his lips split. It told itself by now; that was its use. His breath came back to him off his own beard, sour with the sickness of the first night out and the bile of this one.
 
 His hands shook.
 

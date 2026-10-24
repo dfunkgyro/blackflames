@@ -49,6 +49,9 @@ First line of prose…
 - **Scene breaks** inside a chapter: a single centred `⁂`. No other glyphs and no `---`.
 - **A mid-chapter date head** (italic line alone) is allowed only for time-blind passages and for the Cardinal's crypt chapter (Book I Ch.32).
 - **Embedded documents** are set in a block-quote, with a small-caps style heading line giving their nature and date, e.g. `> LETTER OF ZOSER MERI TO ABBA TALKA, AVIGNON, ADVENT 1326`. Curator's erasures are rendered as ~~struck-through~~ text. Translations shown side by side use a two-column table.
+- **The Gloss** [R2-lit-03]: every rendering of the Line is a four-column table, `SIGN | SOUND | CANDIDATES | CHOSEN`, with warden-signs described in brackets ([a hand open]), unknown sounds as "—", and rejected candidates struck (~~end~~). It sits inside the scene: the prose between rows carries the room.
+- **Keeper's entries (K format)** [Round 1 feedback D, R2-lit-06]: `## FROM THE KEEPER'S CATALOGUE`, then the italic Ge'ez-numeral date line, then one italic paragraph beginning *Item the [ordinal].*, then "— B.", then the spiral glyph ꩜ on its own line. The spiral is **shown**, never described in the entry's text. On a Part-title page the entry sits under `# PART ONE — DIVISION`.
+- **Dialogue layout**: one speaker per paragraph. Two speeches by the same speaker are joined in one paragraph only with an action beat between them; never place two quoted speeches back to back without one.
 - **Chapter length**: 3,000–7,000 words. A chapter under 3,000 must justify itself as a hinge (the Rite's three movements, an epilogue).
 - **Ending**: every chapter ends on a **reversal, revelation or choice**, preferably in the last two lines and preferably in an image or spoken line. Never end on an aphorism or a moral ("The age of reckoning had begun").
 
@@ -62,6 +65,7 @@ First line of prose…
 - **Sensory density**: at least three senses per scene, and **smell in every scene**. Cold, rot, food, wet stone, smoke, sweat, incense, tar.
 - **Breadcrumb lore only when it changes a choice or a survival.** One new term per scene at most.
 - **Prose that survives translation.** No puns that carry plot. No idioms whose meaning depends on modern English. Metaphors drawn from the POV's world: Zoser's from scriptoria and mountains, Isabella's from bowyery, Jay's from the sea and the ledger.
+- **Simile budget and fields [R2-lit-08].** (a) **Budget:** at most three "as a [noun] [verb]s" / "the way a [noun] [verb]s" constructions per 5,000 words; turn the rest into metaphor, direct sensory statement or action. (b) **Fields:** each POV draws its figures from its own life, so the figure characterises. Zoser: books, ruling, ink, quires, stitches, mountains. Tamrat: vestments, feasts, coins, the pulpit. Angeska: thread, weaving, grammar, tides. Talka: terraces, rock, harvest, the knife, weather. Humbert: ledgers, seals, accounts, Acre's quay. Giovanni: law, marble, procedure, bread doles. Gebre: the body, the candle. A figure outside the POV's field needs a reason. (c) **Echo log:** a distinctive figure is used once per book unless it is a registered motif; log it in the book's `FACTS.md` ("Images used").
 - **Dialogue tags**: "said" and "asked" by default. Action beats are better than adverbs.
 - **Interior thought** in italics, sparingly, and only for verbatim thought.
 - **Numbers**: spelled out in prose (except dates and documents). Documents may carry figures, and invented figures are always unreliable (see §8).

@@ -2,13 +2,13 @@
 
 ## ZOSER
 
-*Naples, and the road north — January 1326*
+*Naples, and the road north — January to Ash Wednesday, 1326*
 
 They ran out the same plank to put them ashore.
 
 Zoser knew it by the tallow. Someone had greased its underside again for the quay, and it went out over the gap between hull and stone with the long wet squeal he had heard in his sleep every night since Sicily, and settled in the last of the sun: a board, a thing for walking on. It was the seventh day after Timkat. The mate jerked his chin. Down.
 
-The priest went first, because the priest went first. Halfway down he stopped with his palm flat beneath his ribs and stood for three breaths while the gulls screamed and a porter on the quay looked up and laughed. Then he went on, his back as straight as a processional cross. Zoser came behind with the book-satchel and the King of Kings’ letter, and did not look at the brown water between the boards and the stone.
+The priest went first, because the priest went first. Halfway down he stopped with his palm flat beneath his ribs and stood for three breaths while the gulls screamed and a porter on the quay looked up and laughed. Then he went on down, upright, and did not put out a hand to the rope. Zoser came behind with the book-satchel and the King of Kings’ letter, and did not look at the brown water between the boards and the stone.
 
 Get him to Rome alive. That was the whole of it now.
 
@@ -34,7 +34,7 @@ Zoser watched the tollman’s pen. He could sound Latin letters off a page, thou
 
 > MAVRI  III  ———  gr. vi
 
-Three short strokes side by side, like posts in a fence. Then a figure for the toll. No names. The man sanded it, and the three of them were in the ledger of Naples, and they were three strokes.
+Three short strokes side by side. Then a figure for the toll. No names. The man sanded it, and the three of them were in the ledger of Naples, and they were three strokes.
 
 The boatman said something low to Angeska and touched his own mouth. Zoser caught one word: *moria*.
 
@@ -56,9 +56,9 @@ At the rail above, the captain stood drying his hands on a cloth, one finger at 
 
 Three doors shut on them before dark. At the fourth, in an alley that smelled of tanning and the sea, an old woman with no teeth took Angeska’s coins and let them sleep in a loft above her fish-store among nets that had not been dry since summer. Brine and old scales; a tallow dip whose smoke tasted of mutton fat.
 
-The priest lay down on the nets without eating. His wife put bread by his hand, and after a while took it back and wrapped it.
+The priest lay down on the nets under the eaves without eating. His wife put bread by his hand, and after a while took it back and wrapped it.
 
-Zoser sat under the eaves and took the pouch out of his shamma.
+Zoser sat on the boards beside him, where the roof came down low, close enough to hear the old man’s breath catch and go on, and took the pouch out of his shamma.
 
 He had not opened it since the plank. Now he drew the thong, and the smell came out, and it was so exactly Desta, all at once, in this loft at the end of the world, that he had to shut his eyes. Roasted barley. Roasted chickpea. Desta’s *kolo*, no spice in it: the plain brown smell of a clay pan over a fire of dung and juniper, of a hillside at noon, of a big hand held out sideways without looking, palm up, full.
 
@@ -70,7 +70,9 @@ He laid the grains out on his knee in rows, as Desta had taught him to lay out t
 
 He found that he was smiling.
 
-*You see*, he told the dark. *I am no better at it than you.*
+“You see,” he whispered to the dark. “I am no better at it than you.”
+
+An arm’s length away on the nets, the priest’s breathing did not change.
 
 Three grains a night, then, until the fast; then none, and the rest for *Fasika*. He ate three. The barley cracked between his back teeth, smoke and earth, and went down into him and lay there warm.
 
@@ -92,9 +94,9 @@ She took them by roads that were not on the map. At a fork below a village on a 
 
 They came to Benevento on the fourth day as the gate was closing.
 
-The gate was an arch, the greatest piece of cut stone Zoser had ever stood under, set into the city wall like a jewel in a cheap ring. Across the top ran a line of Latin letters unlike any he had seen. The friar’s book had been all hands joined, letters leaning arm in arm. These stood apart, square and deep and alone, cut to the first joint of his thumb, with a dot between each word and the next. He sounded what he could reach. *O. P. T. I. M. O.* He did not know what they said.
+The gate was an arch, the greatest piece of cut stone Zoser had ever stood under, set into the city wall: a gilded initial on a page of common hand. Across the top ran a line of Latin letters unlike any he had seen. The friar’s book had been all hands joined, letters leaning arm in arm. These stood apart, square and deep and alone, cut to the first joint of his thumb, with a dot between each word and the next. He sounded what he could reach. *O. P. T. I. M. O.* He did not know what they said.
 
-The gatekeeper was turning a key in the wicket door beside the arch, black iron as long as Zoser’s forearm, and it went round in the lock with a sound like a bone breaking. Angeska spoke to him, and the key stopped, and he went to fetch someone.
+The gatekeeper was turning a key in the wicket door beside the arch, black iron as long as Zoser’s forearm, and it went round in the lock with one dry crack. Angeska spoke to him, and the key stopped, and he went to fetch someone.
 
 Under the vault the road was dry, sheltered from the frost, and the dust lay pale and fine as flour, and smelled of cold stone and the mules that had gone through.
 
@@ -150,7 +152,7 @@ He opened his mouth. It was gone. There was only the shape where it had been. He
 
 In the night the snow came down off the mountain behind the town, and in the morning the priest could not rise.
 
-He lay on the inn’s straw with his knees drawn up and said he would walk when the road was fit. The road was not fit for eight days. The innkeeper, a man who smelled of wine-lees and goat, raised the price of the straw each morning the snow lay, and Angeska paid it, and Zoser watched the purse at her girdle go slack as an old udder. On the fourth day she sold her silver ear-drops for half their weight.
+He lay on the inn’s straw with his knees drawn up and said he would walk when the road was fit. The road was not fit for eight days. The innkeeper, a man who smelled of wine-lees and goat, raised the price of the straw each morning the snow lay, and Angeska paid it, and Zoser watched the purse at her girdle go slack. On the fourth day she sold her silver ear-drops for half their weight.
 
 Each night she held out her hand. Each night Zoser looked at the leaf and read the word from it, and each night she gave the book back.
 
@@ -242,6 +244,8 @@ The cold took his feet off at the ankle; he was walking on stumps. Every stone h
 
 He went on. The water came up to his thighs, and the shock of it there took the sight from his eyes; and against the outside of his right thigh, under the shamma, under the sash, the scrip lay warm. It was not the warmth of his body; his body had none left there. It lay along his leg as warm as a loaf from the oven, and it did not cool.
 
+Then the bottom shelved under him, and the stream came up over his belly to his chest, and the cold found the old cut below his left collarbone first, as cold always did, as if it had been left open for it: a barleycorn of ice laid along a childhood hurt from the famine road, before ever it reached his heart.
+
 The old man’s belly was pressed to the back of his neck. His breath came short and hot by Zoser’s ear. In the middle of the ford, with the stream roaring round them, he said something into Zoser’s nape, very low.
 
 “Qess?”
@@ -263,6 +267,8 @@ Something heavy came down over his shoulders.
 It was the priest’s cloak, the coarse brown wool of the country that Angeska had bought him at Naples, still warm from the old man’s body. A hand pulled its edges together under Zoser’s chin, roughly, as one closes a sack, and was gone.
 
 Zoser looked up. The priest stood over him in his wet shamma with his arms bare to the frost, his beard stiff, his hand already back in its place beneath his ribs. He did not say anything. Then he turned and walked up toward the mountain, slowly, without help, his back very straight.
+
+Zoser’s hand had gone of itself to Desta’s pouch, and through the wet leather he counted the days since the plank on the grains, one under his thumb for each, touching them as Desta had taught him, like counting his brothers; he lost his place in the third ten and began again, and came out both times on the same number. It was the fortieth day, the day that at home the dead are let go.
 
 Zoser knelt on the bank in the old man’s cloak, in the smell of sheep and smoke and the sour thing under it, and did not get up for a long time.
 
@@ -324,7 +330,7 @@ Across the hall Angeska turned her head. She did not smile. She held out her han
 
 ⁂
 
-They came to Rome six days later, two of them on the tail of a salt-carter’s wagon that Bishoy paid for and would not be thanked for, by the old road from the south, in sleet, and the first thing Zoser knew of the city was the smell.
+They came to Rome five days later, two of them on the tail of a salt-carter’s wagon that Bishoy paid for and would not be thanked for, by the old road from the south, in sleet, and the first thing Zoser knew of the city was the smell.
 
 It came out across a mile of waste ground to meet them: smoke lying on the city like a lid, and inside it a river gone bad, and tanneries, and the fat-stink of ten thousand tallow candles. Through gaps in the brown walls he saw vines and frozen mud, columns with nothing on their heads, broken marble lying white under the sleet like bones after a battle.
 

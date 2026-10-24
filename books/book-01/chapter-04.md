@@ -240,7 +240,9 @@ The children came to him, as they always did at Timkat, pushed forward by their 
 
 Tasfa Mikael sat on the cloth with his cape off and watched, and ate, and was quiet, until a mother called her boy back to wipe his nose and the line stood still a moment.
 
-“The red-necked Frank came to the camp after he left you,” he said then, wiping his fingers on the injera. “He asked the King’s chaplains whether it was true that the monks of Lalibela burned a woman once, in a church. The chaplains laughed at him.” “He did not laugh. He wrote it down.”
+“The red-necked Frank came to the camp after he left you,” he said then, wiping his fingers on the injera. “He asked the King’s chaplains whether it was true that the monks of Lalibela burned a woman once, in a church. The chaplains laughed at him.”
+
+He watched the children at the water, not Talka. “He did not laugh. He wrote it down.”
 
 The shiro smell was thick and good, and under it, for the space of a breath, Talka smelled juniper.
 
