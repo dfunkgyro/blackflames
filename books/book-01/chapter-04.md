@@ -70,7 +70,7 @@ Frankincense first. It was always first. Then wet tuff, which in this house neve
 
 And under all of it, on feast nights, he smelled rancid oil and burning juniper.
 
-There was no such smell in the house. Fifteen years of censers had gone up into that roof since, and the brothers who stood where she had lain smelled nothing but holiness. But on feast nights, when the incense thickened and the lamps burned close, the other smell rose to meet him between the two nearest pillars, faint as a thing remembered in sleep, and his right hand closed on itself. It remembered the horn handle. It remembered turning the knife in his fingers to hold it out hilt first, as one hands a knife to a boy, so the boy would not cut himself. He had still cut bread with that knife the next morning. He had cut it with that knife for fifteen years.
+There was no such smell in the house. Fifteen years of censers had gone up into that roof since, and the brothers who stood where she had lain smelled nothing but holiness. But on feast nights, when the incense thickened and the lamps burned close, the other smell rose to meet him between the two nearest pillars, faint as a thing remembered in sleep, and his right hand closed on itself. It remembered the horn handle. It remembered turning the knife in his fingers to hold it out hilt first, as one hands a knife to a boy, so the boy would not cut himself. He had still cut bread with that knife the next morning. He had cut it with that knife for fifteen years, and every morning he cut the heel off first and laid it on the stone by the gate; the novices said it was for the birds.
 
 He did not look up.
 

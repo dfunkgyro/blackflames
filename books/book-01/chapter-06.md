@@ -188,7 +188,7 @@ He could see her holding it. That was the trouble with the smell of the sea. He 
 
 Then he was in the boat. Then the boat was out on the water, and the quay was smoke, and the tower was fire, and the great noise behind them went on and on until the wind took it, and he was sitting in the bilge with forty strangers, holding the key in both hands because there was nothing else to hold.
 
-She had not come after. She had not been ransomed. He had paid Genoese and Catalans and, last and longest, Avram ben Shelomo of Alexandria to look for her in the markets of Cairo and Damascus, and one had found a woman of the right age and the wrong face, and he had paid for her anyway, and set her free at Famagusta, and gone to his room and been sick. He had been nine. He was forty-four. She would be sixty-three, if she lived. Women lived to sixty-three in the Sultan’s houses. Women lived to eighty. He had read the lists.
+She had not come after. She had not been ransomed. He had paid Venetians and Genoese and Catalans and, last and longest, Avram ben Shelomo of Alexandria to look for her in the markets of Cairo and Damascus, and one had found a woman of the right age and the wrong face, and he had paid for her anyway, and set her free at Famagusta, and gone to his room and been sick. He had been nine. He was forty-four. She would be sixty-three, if she lived. Women lived to sixty-three in the Sultan’s houses. Women lived to eighty. He had read the lists.
 
 He had kept her a place. The place was Acre. And his heart, which had carried him out of that city in a stranger’s hands, was stumbling now on the stairs of a borrowed house on the Rhône, as if it had at last run out of the strength to carry him back.
 
@@ -230,7 +230,7 @@ He reached for the captain’s report.
 
 The letter in his sleeve pressed against his wrist as he reached. He felt its edge, and the broken wax, and the cloves and the cheap rose-water came up to him faintly with the warmth of his own skin. *A.* Avram would write to the lord Humbert, not to the Cardinal; Avram had known him before the hat. Bad news kept. It would be as true in an hour as it was now, and for that hour she would still be sixty-three, and somewhere.
 
-His hand had stopped on the captain’s wax. For thirty years every report of the order had come to him under this seal, and every one had said at its end, in one form or another, *the flame did not lean*. He had learned not to open hope quickly. At nineteen, in Toulouse, he had kept the Venetian brokers’ letters on his table for a week together, unopened, turning them over at supper; because as long as a letter is sealed, she is still on the quay.
+His hand had stopped on the captain’s wax. For sixteen years every report of the order had come to him under this seal, and every one had said at its end, in one form or another, *the flame did not lean*. He had learned not to open hope quickly. At nineteen, in Toulouse, he had kept the Venetian brokers’ letters on his table for a week together, unopened, turning them over at supper; because as long as a letter is sealed, she is still on the quay.
 
 He drank from the pewter cup, and the nail lay at the bottom, black under the clear water, and the iron taste went down into him. Then he broke the captain’s seal, the key in its ring, and spread the sheet on the table under the lamp, and his heart missed once, and caught up, and he read.
 

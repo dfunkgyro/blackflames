@@ -233,8 +233,8 @@ Format for principals: **Identity · Appearance · Wants · Fears · Secrets · 
 - **Identity.** About 30 in 1325, Tamrat's wife (34 years younger), the embassy's linguist: Amharic, Arabic, Latin, Mande, "seven languages like water" (l.895). Revealed in Avignon as an adept of an older tradition: "I was never, not truly, one of yours" (l.965); "You thought I followed you... I led you" (l.1025). The manuscript calls her "Nilotic. Black-magic born" (l.1023). [RULING] Replace the ethnic label: she is the last initiate of the **Wardens of Aksum**, a literate priesthood of the Word, and kin-in-tradition to Amara.
 - **Appearance.** 1325: composed, patient. At the Rite: Roman red and gold; slit pupils; living glyphs; a glow "like rot inside a ruby" (l.1017). After the Key: skin **lacquered like obsidian, cracked with ember light** [RULING, replacing "pitch-dark", l.1127], forged teeth, eye sockets that bleed smoke. In the 15th century: "the oldest person I had ever seen", gnarled staff, sharp eyes, with a younger woman glimpsed beneath (ll.1774, 1800). In pregnancy: translucent, skeletal, writing a living script (ll.1880–1884).
 - **Wants.** The Key; to be "the crucible" (l.1165); to free the Entity from Zoser into the world or into her child (l.1898); for the child to live (l.1912).
-- **Fears.** Rome's fire ("They would burn her too", l.630); dying before the work is done.
-- **Secrets.** She controlled every word Rome heard (her softened translations, ll.414–450). She steered the embassy and obtained the audience alone (l.406). She took the Key from Zoser (it is sewn into his tunic at l.841 and appears in her robes at l.1029). She wrote the grimoire. Her "Are there children?" (l.592) was a test of what Tamrat knew. A merchant grandfather from Aksum who traded in Rome (l.488, misassigned to the narrator) is hers [RULING].
+- **Fears.** Dying before the work is done. [R3-psych-01] "They would burn her too" (l.630) is **Tamrat's** fear for her, spoken to Zoser when Zoser asks that she carry the Key; her silence at that moment is her choice (I·15).
+- **Secrets.** She controlled every word Rome heard (her softened translations, ll.414–450). She steered the embassy and obtained the audience alone (l.406). She took the Key from Zoser (it is sewn into the lining of his **scrip** [R3-cont-05; the manuscript's "tunic", l.841, is overruled] and appears in her robes at l.1029). She wrote the grimoire. Her "Are there children?" (l.592) was a test of what Tamrat knew. A merchant grandfather from Aksum who traded in Rome (l.488, misassigned to the narrator) is hers [RULING].
 - **Arc.** Merciful interpreter → grieving widow → architect of the Black Rite and ritual rapist of Zoser ("Not in love. Not in lust. In ritual", l.1157) → vanishes "seeded" (l.1215) → returns ageless and ancient (ll.1758, 1774) → union with Zoser → letter ordering Rosa to kill him → dies in childbirth (l.1932); her essence is consumed by the infant (l.1936).
 - **Fate.** Dead, 1439. Her mind may persist in the grimoire and in Rosa's inherited memories ("chants beneath moonlit skies, fires blazing in stone circles", l.1938).
 - **Relationships.** Wife of Tamrat; ally then predator of Zoser; mother of Rosa; possible employer or dupe of Cardinal Humbert; hunted by Marcus (l.1762).
@@ -267,7 +267,7 @@ Format for principals: **Identity · Appearance · Wants · Fears · Secrets · 
 - Ex-soldier, the embassy's guard: scarred, greying, dryly funny, "a walking armoury" (l.113). He wants to get everyone home. **He steps off Humbert's plank "of his own will"** (l.277); his body is never found (l.279). [RULING] He gives the true Tewahedo answer and walks rather than recant. [R1 RULING] He walks to stop the search before it reaches **the boy's bag**, by Talka's private charge, and miscounts (see §10). He keeps a count of the men who died beside him since the Ifat wars and stopped at thirty-nine. He carries kolo from Lalibela. [OPEN] whether the sea keeps him as an omen.
 
 #### ABBA TALKA
-- Priest of Lalibela and Zoser's guardian: "Zion will shelter you" (l.49). He chooses Zoser for the embassy ("I did not choose lightly", l.87). [RULING] He knows of the fragment-bearers' curse and ordered Amara's secret burning. [R1 RULING] Both courier and bait, and he sent Desta as a second bait without telling him why. He had Amara's ceiling painted over in 1311.
+- Priest of Lalibela and Zoser's guardian: "Zion will shelter you" (l.49). He chooses Zoser for the embassy ("I did not choose lightly", l.87). [RULING] He knows of the fragment-bearers' curse and ordered Amara's secret burning. [R1 RULING] Both courier and bait, and he sent Desta as a second bait without telling him why. He had Amara's ceiling painted over in 1311. [R3] A Lasta man, about sixty-five in 1326, a novice at Lalibela from boyhood beside Hiruy, later guardian of Zion at Aksum. His younger sister Elleni brought him a loaf at the gate for twenty years; he lost her to the fire's price and keeps the habits (the heel, the lid). At Aksum (I·12) he writes a false finding, *nothing is wanting*, and strikes his dying friend from the roll of Zion's keepers.
 
 ### 4.2 The Entity and its opponents
 
@@ -885,7 +885,7 @@ Binding from Round 2. Ids refer to `series/ideas-register.md`. Dated facts and t
 - **Dimiana of Aswan.** Coptic widow who keeps the pilgrims' hostel in Trastevere; speaks Arabic and the Nubian of the First Cataract; keeps a diptych of the departed, in which Tamrat writes the names of all three (I·7) [R2-myth-05].
 - **Bishoy of Akhmim.** The Coptic pilgrim of Cassino; lodges at Dimiana's; stands at the bridge (I·17); carries the stufa letter to Egypt (I·19) [R2-cont-04].
 - **Fra Raimon of Albi.** Dominican, the one survivor of the six friars of 1324; heard Gebre's palm-confession; now a sworn Humbert in the Cardinal's household. White scar through one eyebrow. Spits after naming Zoser (I·22); among the masked Roman chapter (I·32) [R2-psych-09].
-- **Desta** had watched the King's baggage for twenty years before the embassy (I·4); the Prologue's sandal in the court is **not** his (ledger #56, open).
+- **Desta** had watched the King's baggage for twenty years before the embassy (I·4); the Prologue's sandal in the court is **not** his (ledger #56: ruled in Round 3 as Elleni's, §12).
 
 ### 11.2 Institutions and objects
 
@@ -905,3 +905,48 @@ Binding from Round 2. Ids refer to `series/ideas-register.md`. Dated facts and t
 - **Nail-holes**: "Every erasure leaves its nail-holes. A good clerk fills them" (Humbert, I·22), the antagonist's version of Law 8; the Clerk's prickings are nail-holes left on purpose [R2-myth-07].
 - **Witnesses the record does not count** frame every book (`series-outline.md` B.2.8) [R2-lit-10].
 
+## 12. Round 3 rulings (Editor-in-Chief)
+
+Binding from Round 3. Ids refer to `series/ideas-register.md`. Dated facts are in `books/book-01/FACTS.md` (audited this round; §15 fixes Part Two before drafting).
+
+### 12.1 People
+
+- **Elleni and the sandal [R3-cont-09].** Talka's younger sister, married in the town below the churches, brought him a loaf at the monastery gate for twenty years; he cut the heel off first and handed it back to her over the gate. On the night of the burning (1310) she crossed the court before the bell with the last of her bread, saw what her brother was lighting, and turned back: the sandal that "stopped, and did not come on". The fire had already taken her from him. At first light her loaf lay on the court stones under her woven red-and-black mesob lid; Talka cut it with the horn-handled knife and fed the boy. Zoser's first bread at Lalibela was hers. She died in the town within the week. Gebre knows; he is mute; never stated in prose. The ceiling records only those under its roof, so she has no witness line.
+- **Hadera** is Angeska's teacher, the last name of her litany. She has no presence at Lalibela in 1310 (R3-mystery-01 declined).
+- **Abba Hiruy**, guardian of Zion at Aksum, Talka's fellow novice; blind "from the rains" of 1325; struck from the roll of Zion's keepers by Talka's finding; asks only "Tell them I did not sleep"; dies at dawn on 17 March 1326 [R3-lit-01, R3-psych-05].
+- **Cencio**, the Orsini turnkey of Castel Sant'Angelo (I·13–18): sells the prisoners light by the inch, tells the castle's lore, hears the sentence, loses the priest's name to Zoser's question, and that night sells the Moor-saint's ash on the bridge: the man who sold the light sells the erasure [R3-lit-02, R3-myth-07, R3-dread-05].
+- **Tamrat's last chapters [R3-psych-02, R3-psych-03, R3-mystery-08, R3-myth-05, R3-dread-07].** In I·14 he gives the wood to the boy deliberately (Genesis 22:6 in Ge'ez; two fingers to the throat), knowing both that the plank's light passed the boy and that the thing turned toward him every night. In I·15 he answers "God will see to it." At the stake he refuses the garrotte offered for the sorcerer-boy's name and answers the forgotten question with his own name, which turns the core black; the price is the gursha his wife fed him; he dies believing she wanted a child of him. He asks "What did it say with my mouth?" and learns it took his joke.
+- **Angeska [R3-psych-01, R3-psych-07].** Her silence when Zoser asks that she carry the Key (I·15) is a choice with a price: the knife at I·25. Her care and her plan show in the same coins: the boy's shoes (I·19), the candle for the dead man's psalter, the fare kept exact, the shoes unlaced at the chamber's threshold (I·27) and left outside the chapel (I·32).
+- **Cardinal Giovanni [R3-psych-08].** He ends Book I with a coward's kindness: the safe-conduct he wrote for the woman, her name scraped out, the bearer's line left blank, sent "for the Ethiopian scribe". In Book II Zoser leaves Avignon on it and chooses Florence. Giovanni never learns it was used.
+- **Cardinal Humbert [R3-psych-09].** "Did you keep something of hers?" (I·22) is empathy and the order's hunt in one sentence; he lets the boy's "Nothing, Eminence" pass, and in I·32 keeps silent while his own chapter fails to find the strip: he keeps the boy's mother's thing as he kept his own mother's key. Master of the order from c.1310.
+- **Ser Matteo of Mazara [R3-mystery-04, R3-lit-08].** At the burning he renders the garrotte offer into Arabic and crosses himself small and exact; he wrote the minute of the burning in advance, and its name went. Against orders he kept a leaf, *Quae audita sunt et non scripta*, ending *Scripsi, ne oblivisceremur*: the series' first record made by an outsider to the cult purely so as not to forget (VII).
+- **Brother Anselm [R3-mystery-05].** His prickings begin the hour the name refuses ink (twelve beside the blank in the steward's register, I·20).
+
+### 12.2 Institutions, objects, places
+
+- **The Key lives in the scrip's lining**, beside the strip, never the tunic [R3-cont-05].
+- **The Aksum stone [R3-myth-01].** A three-band throne-base: Greek, Ge'ez, and lowest the leaning warden-signs. "Son of Mahrem, who is not conquered by the enemy" was chiselled out of the upper two under a cross; in the third, which nobody could read, the name stands: what no one can read cannot be erased. Mahrem is a war god and the kings' divine father (E067), never "the Sky God". In-world object.
+- **Talka's finding at Aksum [R3-lit-01].** *Nothing is wanting*: the Ethiopian church's minute, matching Rome's minute that will not hold a name.
+- **The sentence at the cell door [R3-cont-03].** Read on Spy Wednesday by a notary of the Capitol after the city's judges found sorcery on the Cardinal's referral; Tamrat relaxed to the secular arm, to be burned after the Easter octave, at the Orsini bridge-head (private justice).
+- **The Humbert mask [R3-cont-07].** Names of past wearers engraved and scraped at each death; a polished space for the next; the uncounted Clerk's name is never engraved; in 1897 the blank still fogs.
+- **Desta's sword's tag [R3-dread-08]:** *XL. Aethiops, miles. Mare Siculum. Non portabat.*
+- **The road to Avignon** runs by the Via Francigena to Lucca, the coast road, Aix and Tarascon, then up the Rhône bank [R3-lit-07]. At Tarascon, the **Tarasque** (Saint Martha's beast, led on her girdle, stoned by the men of the town): with Arwe, the series' two mythic models of how a devourer ends (`series-outline.md` B.8.16) [R3-myth-08].
+- **Faras [R3-myth-10].** The cathedral of Faras in Nubia, its bishops painted with their names beside their faces, sanded over and forgotten; read again by the 1961–64 excavation, its frescoes cut free and carried to Warsaw and Khartoum months before Lake Nasser behind the Aswan High Dam drowned the site and the Nubian villages were resettled. Planted by Dimiana in I·19; paid in the Observer's present or a late Keeper's item; in VII the first voices of the river tongue that return to Zoser through the Kernel are these named bishops. Treat the resettlement with specificity and respect; no spectacle.
+- **Castel Sant'Angelo [R3-myth-07].** The jailer's tales of the angel sheathing its sword when a plague stopped, and of the emperor whose coffin-lid went to a pope's tomb at the Lateran (Innocent II, the pope of the 1130 schism: Book II's prologue).
+- **Ponte Sant'Angelo in 1326** has no angel statues (Bernini's are 1669; Peter and Paul 1534): the Orsini bridge-head tower and the river mills.
+
+### 12.3 Magic (see `magic-system.md`)
+
+- Black fire's price takes the memory and leaves the habit [R3-mystery-02].
+- White fire's forgetting travels by the question beyond a few paces; a true name spoken into the fire stops it [R3-dread-05].
+- The grandmothers' blessing was two movements, the Lean and the Standing; the order stole the asking [R3-myth-03].
+- An unsewn strip is visible to a flame within a hand's breadth; reading aloud uncovers it until the reader sleeps [R3-cont-04].
+- The Entity quotes to divide; its catchment widens by book [R3-dread-04].
+- The breath that leaves no fog is held for Book II [R3-cont-03].
+
+### 12.4 Motifs added to §7
+
+- **Habits with no owner**: the heel on the stone, the lid, the gursha reflex, the wiped letter [R3-mystery-02, R3-psych-06].
+- **The bracket `[ ]`**: the record that cannot hold him, one per book, filled at the end [R3-lit-09].
+- **Abraham and Isaac**: "stay mine" (I·7), the wood laid on the boy (I·14), "God will see to it" (I·15), the hand stayed over the boy by the old man's own name (I·17), the shoes unlaced on holy ground (I·27) [R3-psych-02, R3-psych-07].
+- **Proverbs are quotations of the dead** (humans); **quotations of victims** (the Entity) [R3-lit-05].

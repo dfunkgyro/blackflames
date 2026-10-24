@@ -90,7 +90,7 @@ Giovanni took his chair. His notary was at the little desk below the step on the
 
 Ser Matteo of Mazara was sixty or so, the colour of a dry fig, with a reed pen stuck behind his left ear and a goose quill behind his right so that the two pens stood out from his head on either side, reed and feather. He had learned his Arabic in Palermo from an old man whose master’s master had kept the registers of the diwan under the last of the Swabian emperors, when a Saracen clerk and a Latin one still sat at the same table and copied each other’s accounts. He used the reed for Arabic and the quill for Latin and had never in Giovanni’s hearing confused them. He had told Giovanni once, in the whole of a winter, one thing about his youth: that in the old diwan a clerk was paid by the line and hanged by the word.
 
-“Ser Matteo.”
+“Ser Matteo of Mazara.”
 
 “Eminence.” The notary did not look up from his quill.
 
@@ -124,7 +124,7 @@ He watched her carry it across. It was shorter in her tongue than in his. He wou
 
 He kept them there three hours.
 
-He did not decide to. He would have said, if asked, that the matter was long and that a cardinal does not ask leave of an embassy to sit while they stand. But the friary bell rang sext and the shadow of the window-bars moved across the marble from the old man’s feet to the cage-stand, and nobody brought them water, because he had not told anybody to; and once, near sext, his chamberlain came up the side of the room with a cup for him and he drank it, slowly, in their sight, plain water with a little vinegar against the Lenten phlegm, and set the cup down on the arm of his chair where they could see it.
+He did not decide to. He would have said, if asked, that the matter was long and that a cardinal does not ask leave of an embassy to sit while they stand. But the friary bell rang terce and the shadow of the window-bars moved across the marble from the old man’s feet to the cage on its hook, and nobody brought them water, because he had not told anybody to; and once, near sext, his chamberlain came up the side of the room with a cup for him and he drank it, slowly, in their sight, plain water with a little vinegar against the Lenten phlegm, and set the cup down on the arm of his chair where they could see it.
 
 The old priest saw it; he peered at the woman’s face when she was close, but he saw the cup at once across the length of the hall. He began to speak. His voice had been loud before; now it climbed, and the stops in it came harder, and he pointed with his staff at the cup and at the guards and at the whitewashed Christ breaking bread on the wall, and the woman stood with her hands folded and let the storm go past her and over her. When it had gone she turned to Giovanni.
 

@@ -10,7 +10,7 @@ The Catalan shipmaster was not looking at any of them. He stood at the foot of h
 
 “He has said no, my lord,” Angeska said in Amharic. “Twice. His ship is going nowhere.”
 
-“His ship is full of Franks.” Tamrat drew himself up inside a shamma that had been white at Lalibela and was the colour of the road now. “Tell him who asks. Tell him I have stood among the finest minds of the Greeks and found them all wanting, and that a man who has done that does not wait on a quay while a sailor counts sacks.”
+“Then it is going nowhere full of Franks.” Tamrat drew himself up inside a shamma that had been white at Lalibela and was the colour of the road now. “Tell him who asks. Tell him I have stood among the finest minds of the Greeks and found them all wanting, and that a man who has done that does not wait on a quay while a sailor counts sacks.”
 
 She had heard the story perhaps two hundred times, at Abba Talka’s table and in the Nubian sand with his lips split, always whole and in the same words, a triumph worn smooth by handling. In two hundred tellings he had never named one of the finest minds, or said who had spoken last. She had noticed it the first time, when she was a girl at the edge of the lamplight, and she put it again where she kept such things.
 
@@ -82,7 +82,7 @@ The nails were pared short and clean and rounded: a canon’s nails. There was n
 
 *Good*, she thought. *Then it is him.*
 
-He dropped the stone back into the pouch, wiped the two fingers that had held it on his sleeve, one and then the other, and looked them over one by one with the attention a man gives a bill of sale. “Moors,” he said in Arabic, setting the word down whole, to be counted. “I was told Christians.”
+He dropped the stone back into the pouch, wiped the two fingers that had held it on his sleeve, one and then the other, and looked the four of them over, one by one. “Moors,” he said in Arabic, setting the word down whole, to be counted. “I was told Christians.”
 
 His voice did not belong to his face: dry and exact, a clerk’s voice, a voice that had read aloud in cold rooms and been listened to.
 

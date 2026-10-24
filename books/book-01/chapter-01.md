@@ -1,5 +1,15 @@
 # PART ONE — DIVISION
 
+## FROM THE KEEPER'S CATALOGUE
+
+*Rome, Yekatit ፲፰፻፹፱*
+
+*Item the second. A pouch of goat leather, greasy with handling, tied with a thong that has been knotted and unknotted until it shines. Roasted barley and chickpea, unspiced. The grains have been counted by more than one hand, and the counts do not agree. I have counted them myself, and I will not say which hand I agree with.*
+
+— B.
+
+꩜
+
 # CHAPTER 1
 
 ## ZOSER
