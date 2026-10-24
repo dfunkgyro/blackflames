@@ -41,6 +41,12 @@ Binding for all writers. Its sources are the bible (§2, §6), Proposal C's laws
 
 **The Key's melt.** In Angeska's brazier the Key goes gold, then red, then white, under the Rite's purpose. A remembering bearer would have burned it black. This is the first planted proof of the final law.
 
+**Taste: salt is memory [R1-myth-02].** Black-flame ash **tastes of salt**, like tears or the Red Sea, because it holds what it burned. White-flame ash tastes of **nothing at all**: the mouth is filled with absence. The rule is never stated; it is only tasted (Gebre's lip in the Prologue; the white ash and the black sill in I·18; one heartbeat of salt from the black candle in I·33). Zoser loses taste at the Rite; when the 1793 half-transfer "gives back salt" (V), what it gives back is the ability to taste memory.
+
+**Black-flame text records its witnesses [R1-dread-03].** A black burning writes the burned person's text, and also enters those present at the burning as **witness lines**. Because they live, their lines are never finished either. The Bet Maryam ceiling holds Amara's text plus lines for Gebre, Talka and the boy; Gebre's line grows "opened his hand to the Latin" in 1324 (I·16). Gebre's palm carries the boy's line and keeps writing it (I·Pro, 4, 12, 23, 30). The ceiling cannot record what happened to people who were not there: it does **not** know of Tamrat's theft (I·16).
+
+**The Line [R1-mystery-04, R1-lit-05].** The first line of Amara's strip, written twice by her (once on the strip, once in the ceiling's text), is the series' final law in the warden-script. Its verb is the warden root that means *burn / end / release / let die*, the same root Beatrice renders "kill" in Angeska's letter (II). Zoser renders it in I·10: *"Burn what you carry, while you remember whose you are."* He takes "what you carry" to mean the strip and resolves never to burn it. Its true sense is the willing black burning of the vessel by one who remembers (VII). Each book offers one new rendering by a POV with a motive (`series-outline.md` B.8).
+
 ---
 
 ## 3. Writing as magic: documents as spells
@@ -67,6 +73,9 @@ Binding for all writers. Its sources are the bible (§2, §6), Proposal C's laws
 7. **[SHOWRUNNER RULING]** A vessel's skin carries the record of what it hosts; this is why Zoser's veins "rearrange". A vessel who **chooses** a black burning while remembering who he is **records** the Entity instead of releasing it. The body becomes a page (vellum). That is the series' endgame.
 
 **The candle test.** Ordinary flame **leans toward** an unhidden fragment or vessel and **burns blue**. This is how the Silence-Keepers hunt bearers (Captain Humbert, Book I Ch.1). Fragment 0 and the crescent tokens defeat the test.
+- **The Lean (visual grammar) [R1-dread-02].** The flame tips like a head turning to listen, holds, and its tip blues. Never described the same way twice. In Book I no other flame may flicker for weather. At I·33 it **inverts**: every flame leans away from Zoser, the way animals shy.
+- **Its origin is stolen [R1-myth-03].** Around Lalibela the grandmothers hold an oil lamp to a newborn at the lying-in: if the flame leans, "the child is claimed", and the family brings it to the priests **for blessing**. (An invented local custom, not a claim about Ethiopian practice at large.) Gebre showed it to the Latin missionaries in 1324; the Silence-Keepers turned a blessing into a test for killing. Desta knows it from his sister's lying-in, which is why he understands the plank in I·1 faster than anyone.
+- **Fragment 0 hides only while its text is unspoken [R1-mystery-04].** Reading the strip aloud "uncovers" it. Zoser does so in I·10, and the veil comes for him in I·11 ("You dared to uncover them!"); the candles swing to him. Sewn shut and silent, it hides again (I·15, I·32).
 
 **Visual signatures of a vessel:** grey scales "like vellum"; ink-veins that move (l.1417); no taste and no warmth; a heartbeat out of step with the world (l.1379); plants wither and insects die nearby (l.1405); candles gutter; seers see "a relic-shaped hole" (l.1454).
 
@@ -93,6 +102,10 @@ Binding for all writers. Its sources are the bible (§2, §6), Proposal C's laws
 | V | 𐤀 | Proto-Sinaitic *ʾalp*, the wardens' script | Her name itself. |
 
 The scripts run **backwards** toward the first alphabet. The fair misdirect in IV is **AMR** (Arabic: *the command, the decree*).
+
+**The false choice [R1-psych-02, R1-dread-06].** When a letter forms, Zoser feels two memories come loose together, one of his mother and one of someone else he loves, and believes he can hold only one. He always holds the other (I·29: Desta's joke over Amara's finger in the dust; II: Bellini's kitchen over his mother's face). **The truth, shown to the reader and never to him:** the mother's memory is struck first, before he "chooses" (I·28's inventory). The Entity lets him rescue a lesser memory so that he carries the guilt ("I traded my mother for a soldier's joke"), and guilt is a self-erasure that feeds it. He learns this only in VII.
+
+**The unfinished scar [R1-myth-01].** Below Zoser's left collarbone is one short cut, the first mark of an age-grade sequence Amara began and the famine road interrupted. It is skin-text begun in love, and the Entity cannot write over it: the ink-veins route around it (I·29), and it warms when a letter of the Name forms (I·33). The last line of the vellum is written beside it (VII).
 
 ---
 
@@ -126,11 +139,13 @@ Every Rite has **five parts**:
 
 The rite at Avignon leaves seven witnesses amnesiac; the Clerk is the one who escapes the tax. Readers can **count witnesses** as a fair-play clue: seven cardinals at *Dum Diversas*; three crowns and four confessors at Alcáçovas; two times seven powers at Berlin, a **double Rite**.
 
+**The tax falls only on the witnesses the Rite counts [R1-mystery-05, R1-myth-05].** A Rite's Reading names its seven. Those the record does not count (servants, slaves, women, notaries, the man "who is nobody") are present but untaxed, and keep everything. At Avignon Humbert names three cardinals and four clerks, "and Brother Anselm to keep the notes, who does not count". Eight figures stand in the chamber; seven small candles burn in the chalk circle, one per counted witness, and each goes **blue** as its man's memory is taken. The reader can solve the Clerk's survival by counting. The **reader** of a Rite (Humbert, for the *lectio* only) is half-taxed; the Nail-water in his blood holds part of the rest. This is the series' politics as magic: the people the record erases are the witnesses erasure cannot reach. Use it deliberately: Zaynab (unrecordable after 1492), the enslaved at Alcáçovas, the Merikin wives at the deeds. The Clerk's wax tablet is also the first record of a Rite kept by someone the Rite did not count; Isabella's ledger technique (IV) rediscovers the instinct on purpose.
+
 An **anti-Rite** is a Reading that remembers instead of erasing, and needs no tax. Examples: Bois Caïman (1791); the Act of Independence read at Gonaïves (1804); the found family reading Zoser back to himself (1896). Every book's climax is a Rite or an anti-Rite.
 
 | Rite | Book | Vessel / Crucible / Splinter / Reading / Witnesses |
 |---|---|---|
-| The Black Rite, Avignon | I | Zoser / brazier / Key / Lectio Divina and Revelation 4:6 / three cardinals and four clerks |
+| The Black Rite, Avignon | I | Zoser / brazier / Key / Lectio Divina and Revelation 4:6 (Epiphany Eve, 5–6 January 1327) / three cardinals and four clerks; the note-taker uncounted |
 | Haimeric's binding | II prologue | Haimeric / his own body / Nail / Latin exorcism / the Lateran conclave |
 | The union, Florence 1438 | II | Angeska / a convent cell / the 1326 seed / her grimoire / seven nuns asleep |
 | The bull-signing | III | the document / the chancery table / Nib / the bull's text / seven cardinals |
@@ -185,6 +200,10 @@ An **anti-Rite** is a Reading that remembers instead of erasing, and needs no ta
 | War with its negation | The negation takes bodies; the magic goes mass | 1794–1816 | VI |
 | Metastasis | Self-replicating writing (race, deed, debt) | 1816–1885 | VII |
 | **Record** | Read aloud in black flame: finite and mortal | Lalibela, 1896 | VII |
+
+**Its voice: it only quotes [R1-dread-01].** The Entity has no words of its own. Everything it says is assembled from words already spoken or written near a fragment or a vessel, given back verbatim in the original speaker's cadence: a cento of the archive. In Book I this is absolute and every quotation is sourced in a concordance (`books/book-01/PLAN.md`). In later books, as its archive grows, its sentences become longer collages, but writers must still be able to source every phrase. This is how an "archive of the erased" talks, and it plants VII without stating it.
+
+**The excommunication from creation partly binds [R1-dread-05].** The veil's Word-act (I·11) begins to unwrite Zoser from the world's records: ink will not take his name, breath leaves no fog, registers leave a blank, memories of his name disagree. One small deniable proof per chapter, never spectacle. This is the first stage of "unseen means unremembered" (§4.1).
 
 **Diet.** Division, conquest, enslavement as sacrifice, renaming, erasure.
 **Fears.** Kindness, conviction, ideas, its negation, **being read**.

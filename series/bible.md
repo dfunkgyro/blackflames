@@ -202,12 +202,12 @@ Format for principals: **Identity · Appearance · Wants · Fears · Secrets · 
 ### 4.1 The bloodline of the Key
 
 #### ZOSER MERI — the vessel
-- **Identity [MS/RULING].** An African monk-scholar raised by the monks of Lalibela, narrator of most of the first half of the manuscript (first person). Born c.1304 [RULING] to Amara and Ika, a Nile family. The manuscript calls them "Nilotic" and Egypt-born (ll.15, 19) and also "born in Holy Lalibela" (l.524). [RULING] Nubian Christians of Makuria; Zoser says "Lalibela raised me". Named for the pyramid-builder Djoser, a clue to the Il Moro/Kemetic layer (notes p.03).
+- **Identity [MS/RULING].** An African monk-scholar raised by the monks of Lalibela, narrator of most of the first half of the manuscript (first person). Born c.1304 [RULING] to Amara and Ika, a Nile family. The manuscript calls them "Nilotic" and Egypt-born (ll.15, 19) and also "born in Holy Lalibela" (l.524). [RULING] Nubian Christians of Makuria; Zoser says "Lalibela raised me". Named for the pyramid-builder Djoser, a clue to the Il Moro/Kemetic layer (notes p.03). [R1 RULING] No one can read "Djoser" before Champollion; in Books I–V the clue is only "a name the old stones keep". The explicit reading belongs to VI or VII.
 - **Appearance.** Dark skin "ashy as parchment" after the dungeon (l.797). After the Rite: dry skin with **grey scales**, **ink-like veins that move and rearrange** (l.1417), no scar where the Key went in but a "ghost" lodged in the spirit (l.1419), a voice "deeper. Slower. Measured like liturgy" (l.1369), a heartbeat out of step with the world (l.1379). He does not age from 1326: Marcus, forty years on, says "You haven't aged a day" (l.1730). Plants wither and insects die near him (ll.1405–1407). Seers see "the relic-shaped hole in his soul" (l.1454) and say he wears "a dead man's skin" (l.1399).
 - **Wants.** At first, to prove worthy (l.103) and be a "living witness" of Ethiopian Christianity (l.375); to take the relic back to Lalibela (l.630). After the Rite, to be free of the Entity, to protect those he loves (Bellini, Rosa), and later only to stay hidden. Among the Moors (1450s–90s), to protect the hunted and find them a haven (Granada).
 - **Fears.** Becoming what he carries ("I had *become* it", l.1464); harming the kind; the Church's fire; being unseen and forgotten. He doubts whether he is still a man ("I'm... something else", l.1311).
 - **Secrets.** He carries the Entity; he killed his teacher Humbert by the Entity's speech (l.1684); he fathered Rosa while under vows (l.1856); a name is forming in his mind letter by letter (l.1371); Angeska ordered their daughter to kill him (l.1898).
-- **Arc.** Pack-bearer → the envoy who answers for Tamrat at sea (ll.309–321) → bearer of the stolen Key (l.630) → drugged, killed and rewritten in the Black Rite (ll.1005–1225) → carrier of "Chaos. Schism. Sickness." (ll.1339–1351) → fugitive vessel in Florence, archive phantom, worshipped as an angel (l.1734) → Angeska's lover and Rosa's father (1438–39) → survivor of the pyre that will not burn (l.1844) → defier of Afonso's men in Lisbon (ll.2279–2307) → Moor refugee, enslaved, shipped to Venice, dressed as a noble because "They want you" (l.2529) → rescuer of Rosa (l.2631) → last seen watching "in despair at the tribes he tried to save" after 1493 (l.2901).
+- **Arc.** Pack-bearer → the envoy who answers for Tamrat at sea (ll.309–321) → bearer of the stolen Key (l.630) → drugged, killed and rewritten in the Black Rite (ll.1005–1225) → carrier of "Chaos. Schism. Sickness." (ll.1339–1351) → fugitive vessel in Florence, archive phantom, worshipped as an angel (l.1734) → Angeska's victim again in a coerced union, and Rosa's father (1438–39; see §10.1) → survivor of the pyre that will not burn (l.1844) → defier of Afonso's men in Lisbon (ll.2279–2307) → Moor refugee, enslaved, shipped to Venice, dressed as a noble because "They want you" (l.2529) → rescuer of Rosa (l.2631) → last seen watching "in despair at the tribes he tried to save" after 1493 (l.2901).
 - **Powers [MS].** Gift of tongues (Latin, l.1245); being unseen until noticed ("They could see me now", l.1235); a **falcon eye** that sees threads of fate and "what lay beneath the ink" (ll.2269, 2527); invisible force (l.2279); shadows like serpents (l.2301); quenching fire (l.1844); the Entity's killing speech (l.1680).
 - **Nature and longevity: how he survives centuries.**
   - [MS] Ageless from the Rite (or from 1054 in the conflicting strand). The Entity "dulled my perception": decades pass unnoticed (l.1716). He surfaces "once per generation" (l.1770). The Entity protects its host from fire (l.1844) and violence (l.2279). He can be beaten unconscious (l.2443), chained and shipped (l.2525), so his body is not invulnerable when the Entity is quiet or spent.
@@ -238,7 +238,8 @@ Format for principals: **Identity · Appearance · Wants · Fears · Secrets · 
 - **Arc.** Merciful interpreter → grieving widow → architect of the Black Rite and ritual rapist of Zoser ("Not in love. Not in lust. In ritual", l.1157) → vanishes "seeded" (l.1215) → returns ageless and ancient (ll.1758, 1774) → union with Zoser → letter ordering Rosa to kill him → dies in childbirth (l.1932); her essence is consumed by the infant (l.1936).
 - **Fate.** Dead, 1439. Her mind may persist in the grimoire and in Rosa's inherited memories ("chants beneath moonlit skies, fires blazing in stone circles", l.1938).
 - **Relationships.** Wife of Tamrat; ally then predator of Zoser; mother of Rosa; possible employer or dupe of Cardinal Humbert; hunted by Marcus (l.1762).
-- **[OPEN]** Did she love Tamrat? Did she marry him for sanctum access? Is her true name **Anima** (from the "Angeskal" = "animal" damage)? Adopted proposal: "Anima" is her secret name, written in the grimoire's first line.
+- **[R1 RULING]** She married him for sanctum access, and loved him "yes, and not enough" (I·19). See §10 for her three-part confession.
+- **[OPEN]** Is her true name **Anima** (from the "Angeskal" = "animal" damage)? Adopted proposal: "Anima" is her secret name, written in the grimoire's first line.
 
 #### ROSA MERI — the crimson-eyed daughter
 - **Identity.** Daughter of Angeska and Zoser, born 1439 [RULING] in a Florentine convent, named "Rosa Meri" (l.1926). Artist, mathematician and pattern-seer whose geometry seeds a "rebirth" (ll.2005–2085). Narrator of the Vatican strand. Carries "the entity within—one gifted by my mother's forbidden arts" (l.2239).
@@ -259,14 +260,14 @@ Format for principals: **Identity · Appearance · Wants · Fears · Secrets · 
 - **Fears.** Real danger at sea (he hides behind rope and barrel); exposure.
 - **Secrets.** He stole a fragment of the Ark from the sanctum at Aksum and swallowed it repeatedly to keep it hidden (ll.616–620). The veiled man rose through him (ll.536–568).
 - **Arc.** Arrogant buffoon → frozen coward on the plank → paranoid accuser in Rome → host of the veiled man → broken penitent ("I'm sorry… for everything", l.582) → martyr who turns his execution into a weapon: "I have seen the Ark of the Covenant, and it does not lie beneath your altars" (l.719). He dies silent, praying in Ge'ez (l.739).
-- **Fate.** Burned in Rome, 1326. In the vision he laughs "in fire that turned to flowers" (l.995). [OPEN] Whether a martyr-cult grows from him.
+- **Fate.** Burned in Rome, 1326. In the vision he laughs "in fire that turned to flowers" (l.995). [RULING] A martyr-cult grows from him at Lalibela (I·23, I·30, II via Giyorgis), and a white-ash relic trade in Rome (I·18–20): two martyrdoms of one man, both built on forgetting his name.
 - **Relationships.** Husband of Angeska; master of Zoser; protected by Desta; enemy of Giovanni.
 
 #### DESTA
-- Ex-soldier, the embassy's guard: scarred, greying, dryly funny, "a walking armoury" (l.113). He wants to get everyone home. **He steps off Humbert's plank "of his own will"** (l.277); his body is never found (l.279). [RULING] He gives the true Tewahedo answer and walks rather than recant. [OPEN] whether the sea keeps him as an omen.
+- Ex-soldier, the embassy's guard: scarred, greying, dryly funny, "a walking armoury" (l.113). He wants to get everyone home. **He steps off Humbert's plank "of his own will"** (l.277); his body is never found (l.279). [RULING] He gives the true Tewahedo answer and walks rather than recant. [R1 RULING] He walks to stop the search before it reaches **the boy's bag**, by Talka's private charge, and miscounts (see §10). He keeps a count of the men who died beside him since the Ifat wars and stopped at thirty-nine. He carries kolo from Lalibela. [OPEN] whether the sea keeps him as an omen.
 
 #### ABBA TALKA
-- Priest of Lalibela and Zoser's guardian: "Zion will shelter you" (l.49). He chooses Zoser for the embassy ("I did not choose lightly", l.87). [RULING] He knows of the fragment-bearers' curse and ordered Amara's secret burning. [OPEN] whether Zoser was sent as courier or as bait.
+- Priest of Lalibela and Zoser's guardian: "Zion will shelter you" (l.49). He chooses Zoser for the embassy ("I did not choose lightly", l.87). [RULING] He knows of the fragment-bearers' curse and ordered Amara's secret burning. [R1 RULING] Both courier and bait, and he sent Desta as a second bait without telling him why. He had Amara's ceiling painted over in 1311.
 
 ### 4.2 The Entity and its opponents
 
@@ -336,7 +337,7 @@ Format for principals: **Identity · Appearance · Wants · Fears · Secrets · 
 | Cardinal Mendoza | 2992–3040 | Isabella's confidant; uncovers the White Flame forgery. |
 | Cardinal Borghese | 3275 | Beatriz serves in his household and reports papal doubts. |
 | Archbishop Bancroft | 3418 | Proposes the new Bible. [RULING] Not to cover a scandal (that is Cecil's cynical gloss). |
-| The seven at the Rite | 909, 1149 | [RULING] Three cardinals and four clerks; left shaking and amnesiac; cannot testify. [OPEN] one recovers and hunts Zoser. |
+| The seven at the Rite | 909, 1149 | [RULING] Three cardinals (fictional) and four clerks; left shaking and amnesiac; cannot testify. [R1 RULING] An eighth man, the uncounted note-taker **Brother Anselm (the Clerk)**, keeps his memory; he is made to forge Scar I and to wear the mask, and hunts Zoser in II as a Humbert (see §10). |
 | A Dominican | 933 | Hands Zoser the chalice. |
 | Brother Marcus | 1684–1764 | See §4.5. |
 | Pastor Jeremiah | 5786 | Merikin-born Baptist elder. |
@@ -796,7 +797,7 @@ Each conflict lists the versions with line references, then the binding ruling.
 6. A lost first child of 1326, or Rosa as the century-carried seed.
 7. Rosa's fate after 1493; whether she obeys her mother's order.
 8. The Black cardinals' fate after 1452.
-9. Who set the trap in Rome (Humbert's information, Angeska's bargain, or the Church's centuries-old fragment hunt).
+9. ~~Who set the trap in Rome~~ **Closed in Round 1:** Angeska. She let the theft happen, wrote to the order from Alexandria signed "A.", and steered Talka's choice of Zoser (§10).
 10. Who the Observer is.
 11. The Company's surfacing face (an Equiano-figure, or Obinna).
 12. The spirit-box's contents.
@@ -808,3 +809,60 @@ Each conflict lists the versions with line references, then the binding ruling.
 18. Whether black and white flames are one fire.
 19. The Lux Obscura chapel's location and contents beneath the Vatican.
 20. How the series ends: "Show me how it ends." (l.6475).
+
+---
+
+## 10. Round 1 rulings (Editor-in-Chief)
+
+Binding from Round 1. Ids refer to `series/ideas-register.md`. Chapter-level execution is in `books/book-01/PLAN.md`.
+
+### 10.1 People
+
+- **Angeska's three-part confession [R1-mystery-02].** (1) *The theft was allowed.* She called the guardian of the sanctum at Aksum away from his post, speaking the old tongue at the door, so that her ambitious husband would take the wood and carry its curse and the candle's attention while she stayed unmarked. (2) *She summoned the candle.* In Alexandria she gave the captain's mate a sealed letter in Latin, signed only "A.", for the master of the order; Humbert pockets it unread in I·6, and Rosa finds it in the order's files in III. The captain's plank was his own cruelty, a cost she did not foresee. (3) *She chose the boy.* The suggestion to send "the orphan with the good hand" reached Talka through her. She delivers all three flatly at I·27, and the last breaks her voice.
+- **Angeska and Amara.** They never met. Angeska was trained to revere the "southern carriers" of the Wardens' lore, of whom Amara's line was one. She spares the strip for that reason (I·31) [R1-psych-08]. She chooses Zoser because he is warden-kin, "the only body on earth already half-written". (Rejected: R1-mystery-03's childhood bond.)
+- **Angeska's mercy is language [R1-psych-05].** She teaches Zoser one Latin word a night: *clavis, ostium, vas, germen, ignis, mater, custos*. Read together they are her plan. The Wardens permit no other mercy than truth given in advance.
+- **Tamrat's irregular marriage [R1-cont-05].** A Tewahedo priest must marry before ordination and may not remarry. Tamrat's first wife, Ilfinesh, died c.1308–10. His marriage to Angeska was private, blessed by no bishop, quietly suspected by Talka. It is his first secret sin and her first leverage; the theft is his second transgression. The Wardens chose a priest "who would break canon once and could therefore be made to break it again".
+- **Tamrat's Constantinople [R1-psych-03].** His boast (l.109) is a thirty-year lie. C.1295 he was kept three days at the Patriarchate's door, his satchel emptied for "Egyptian sorcery", a deacon wiping his hand after the kiss of peace. "Untouchable" is literal: he swallowed the wood so there would be something holy in him no searcher could reach. Being searched is his wound (I·1, 3, 14, 17).
+- **"Wet clay" [R1-psych-04]** is the thread of the master and apprentice (see PLAN).
+- **Desta [R1-mystery-01, R1-psych-01, R1-myth-03, R1-lit-01].** Talka privately charged him: "Watch the boy's bag, not the boy." Knowing the highland lamp-blessing, he understood that Humbert hunted a "claimed" body. He believed the candle leaned toward Zoser's scrip and walked off the plank to stop the search before it reached the boy. The candle was leaning toward Tamrat and could never see the scrip. First reading (I·15): he died for Tamrat's theft. Second (IV·~22): he died for the boy, for the wrong reason, and saved a theft he never knew about.
+- **Cardinal Humbert's Acre [R1-psych-06].** Born c.1282. In May 1291, aged nine, he was lifted into a Venetian boat at Acre while his mother stayed on the quay with the iron key of their house. She was never ransomed. He wears the key on a cord beside the order's signet (the key-in-circle seal is older than he is; it drew him to the order). He has written her name into John XXII's list of captives "presumed living". He tutors Zoser in Latin theology and disputation in Avignon (I·22), which earns "Have mercy on your old teacher" in II.
+- **Captain Humbert [R1-cont-10].** A licensed smuggler: the key-in-circle seal on his papers is a papal licence to trade with Mamluk Egypt despite the embargo, which is why only he sails in the closed season and takes "Moors".
+- **The Clerk, Brother Anselm [R1-mystery-05, R1-mystery-06, R1-lit-03, R1-cont-07].** A young curial clerk with a looped ligature on *et* and a habit of pricking his margins with the stylus. Uncounted at the Rite, he keeps his memory. He drafted the Rite's false minute in advance on Humbert's orders, then wrote an honest counter-record. He fled to the Carthusians at Villeneuve; Humbert gave his name to the Roman chapter. Made to "correct" the honest dossier on Angeska, he writes Scar I and puts on the mask. He plants its tells deliberately (his prickings spell MEMINI), and Matthias finds this in VII. In II he hunts Zoser as a Humbert, the one hunter who saw the Rite.
+- **Gebre [R1-cont-09, R1-dread-03, R1-lit-04].** Mute from 1310 to 1327. In 1324 he confessed by opening his ash-lettered palm to a Dominican, who copied the letters and learned from him the grandmothers' lamp. In II (reported by Giyorgis at Florence, 1441) he asks to be burned in Bet Maryam as Amara was; the fire goes black because he remembers everything he did, his ash joins her text, and from then on **the ceiling keeps writing Zoser's unseen life**, in every script he passes through. Desta Wolde reads it in VII.
+- **Giyorgis [R1-cont-09].** The novice who carried water for the embassy to Massawa (I·2 flashback), serves at Timkat (I·4), first sings "the martyr of the bridge" (I·30), and greets Zoser in Florence in 1441 (II).
+- **Amara's scars [R1-myth-01].** Amara's people keep genealogies and vows on the skin: a record tradition and a cousin of the warden-script (MS l.15). Never ethnographic colour; always a literate archive. Zoser bears one unfinished cut below his left collarbone (see `magic-system.md` §4.1).
+- **Zoser's Latin [R1-cont-03, R1-psych-07].** Before the Rite he has rote Latin only: the missionaries' catechism and the Chalcedonian Definition, memorised in 1324, telling himself it was to refute them and secretly hoping to be chosen. He recites without full comprehension (I·1). His Ch.11 lie is told in Arabic. Humbert's lessons (I·22) are real but partial. After the Rite, Latin comes whole (I·29, I·33).
+- **Trauma written truthfully [R1-psych-09].** Zoser does not name what was done to him until Book III. It shows in behaviour: he cannot bear a candle near his body; he sews every lining shut and checks them at night; he sleeps clothed; he says "I was sick in Avignon". The 1438–39 union in II is **coercive on her side and dissociated on his**: he seeks Angeska out to kill her or make her undo it, the Entity's pull and her need to bring the seed to term do the rest, and he hates himself for the part of him that wanted to be seen by the only person who knows. It is never framed as romance; Angeska is never called his "lover" in the prose. §4.1's relationship line "Angeska's lover" is superseded.
+
+### 10.2 Institutions and objects
+
+- **"Humbert" [R1-cont-06].** Every sworn hunter who has drunk the Nail-water once is "a Humbert"; the Master is "the Humbert"; the masters drink it daily, which is their longevity. A Humbert **spits after naming a bearer**, so that the name does not stay in the mouth (the Captain, I·1; the Cardinal suppresses it, I·20).
+- **The Roman chapter.** The Silence-Keepers' keepers of the Lux Obscura chapel beneath the Vatican. They answer to the Nail itself, and by the order's rule they judge a Master who loses a relic (I·32). They take Desta's sword.
+- **The iron masks [R1-dread-09].** The inner face of each mask is engraved with the names of its previous wearers, each scraped out when that wearer dies: a palimpsest of erased men, smelling of the last man's breath, with a blank polished space for the next. Succession is serial erasure, the white fire's logic in metal.
+- **Bet Maryam's ceiling [R1-cont-08].** Talka had it painted over in 1311 (the church's ceiling is historically painted); the black script shows through the pigment. He scrapes a hand's breadth in I·16 and a long strip in I·30, and orders it to stand.
+- **The guardian of the sanctum [R1-cont-08].** He discovered the loss at once, hid it for shame, and went blind by degrees (the curse takes the eyes of the keeper who failed). He was exposed only when the Timkat rite of 1326 made him open the inner chest before witnesses.
+- **The lamp-blessing [R1-myth-03].** An invented local Lalibela custom, never presented as general Ethiopian practice: a grandmother holds an oil lamp to a newborn, and a leaning flame means "the child is claimed", for blessing. The Silence-Keepers' candle test is a stolen copy of it.
+- **The jeli [R1-myth-08].** Fodé Kouyaté, hereditary keeper of genealogies in the Malian party at Alexandria, 1325. His recitation of the dead makes lamps burn upright: remembrance as a physical counter-force, shown before it is understood. Instrument: the *ngoni* or the *bala*, never the kora (later).
+- **The tabot [R1-myth-06].** The book's thematic key: holiness made present on every consecrated altar, against Rome's one object in one place. Tamrat stole because he had come to think like Rome ("Every village has a tabot. I wanted the wood.").
+- **Aksum's chiselled god [R1-myth-07].** An in-world throne-base among the stelae where "son of Mahrem" was cut away under a cross: Ethiopia's own erasure, a Curator's Scar in stone. The guardian's tale of the serpent Arwe plants the mythic solution: "You do not kill a devourer. You give it something it cannot swallow."
+- **The victory register [R1-lit-08].** Ethiopia erases too: Amda Seyon's scribe counts Ifat captives without names (I·23). Only the scribe and the captive are invented; the wars happen as recorded.
+- **Zoser's psalter [R1-lit-06].** It holds his child's አ, his adult አ beside it (I·10), and Angeska's seven Latin words. Left among the "martyred prophet's" effects in Avignon; recovered and carried to Lalibela (II, via Giyorgis, 1441); gathered by Tewodros II to Maqdala; looted by Napier's expedition in April 1868 and shipped to London (history unchanged; only this book's meaning is invented); stolen back by Rosa and placed in Zoser's hands at the climax (VII).
+- **Zoser's letters [R1-cont-04].** The stufa letter (spring 1326) reaches Amda Seyon's camp in winter 1326–27 by way of the Coptic pilgrims. The Avignon letter (Christmastide 1326) is never delivered in Book I; it surfaces in II, carried home in 1441 or found in Humbert's papers, and is read a decade late.
+- **Castel Sant'Angelo and the bridge [R1-cont-10].** The Orsini hold the castle. Giovanni Orsini relaxes Tamrat to the secular arm; Orsini men burn him at the family's own bridge-head.
+
+### 10.3 Motifs added to §7
+
+- **Counting against naming [R1-lit-09].** The Entity's documents **count**; the rememberers **name**. One dramatised beat per book (see `series-outline.md` B.8). At the climax the Last Voice returns Desta's joke: the man who could not count is the one who is named.
+- **Salt** (memory) and **flour-white ash** (erasure) [R1-myth-02].
+- **The Lean** of a candle [R1-dread-02].
+- **The searched body** (Tamrat; later the vessel measured "as one measures a skin").
+- **Gursha and kolo** [R1-myth-04]: love fed by hand; the body remembers love after the man cannot taste (I·33).
+- **The Entity's voice is a cento** [R1-dread-01]: it only quotes.
+
+### 10.4 Calendar rulings
+
+- **Easter 1326** fell on 23 March (Julian); Latin Lent began 5 February; the Ethiopian *Hudade* about a week earlier [R1-cont-02].
+- **The fourteen nights** run from the night of 23 December 1326 to Epiphany Eve, 5–6 January 1327, the night the tabots stand by the water at Lalibela on the eve of Timkat [R1-cont-01].
+- **The Keeper's entries** are dated in the Ethiopian reckoning in Ge'ez numerals (Yekatit 1889 E.C. = February 1897) [R1-mystery-08].
+- **1328 politics** [R1-cont-10]: Ludwig the Bavarian crowned in Rome by Sciarra Colonna in January 1328; Nicholas V raised only in May. In Lent 1328 the rumour is "the Bavarian means to make his own pope".
+
